@@ -1,0 +1,143 @@
+body
+{
+  background-color:#82DBD8;
+	text-align:center;
+  font-family: sans-serif;
+
+}
+h1
+{
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  margin-top:40px;
+  color:#371B58;
+}
+
+h2
+{
+
+}
+
+h3
+{
+  color:#070D59;
+
+}
+
+.top
+{
+margin-top: 40px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+img:hover
+{
+  backgroud-color:blue;
+}
+
+.code-img{
+  width:300px;
+  height:300px;
+  margin: 35px 50px auto 150px;
+}
+
+
+.learn-img{
+  width:300px;
+  height:300px;
+  margin: 50px 50px auto 150px;
+}
+
+.learn-text
+{
+  text-align: left;
+}
+.contact-me
+{
+  margin-top: 30px;
+}
+.top-cloud
+{
+  position:relative;
+  left:250px;
+
+}
+
+.bottom-cloud
+{
+  position:absolute;
+  bottom:320px;
+  left:350px;
+
+}
+
+.bottom-image
+{
+  position:relative;
+  top:40px;
+}
+
+.profile
+{
+  top:30px;
+  position:relative;
+  margin-bottom: 35px;
+}
+
+.skill-row1
+{
+
+}
+
+.skill-row2
+{
+
+}
+
+.skills{
+  margin:35px auto 40px auto;
+}
+hr{
+  background-color: white;
+  border-style:none;
+  border-top-style:dotted;
+  width:15%;
+}
+
+.top-intro
+{
+  font-size: 1.1rem;
+
+}
+
+/*.bottom-container {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 2%;
+   background-color: #dda0dd;
+   color: white;
+   text-align:center;
+   font-family:Times New Roman;
+   font-size: 25px;
+ }*/
+/*.middle-container
+{
+	height:200px;
+	width: 200px;
+	background-color: blue;
+	border: solid 20px;
+	margin-left:200px;
+}
+.bottom-container
+{
+	height:200px;
+	width: 200px;
+	background-color: purple;
+	border: solid 10px;
+	margin-left:400px;
+}*/
